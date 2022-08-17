@@ -4,7 +4,7 @@
 #### Collaborated / Contributed (open source)
 
 - 👨‍👩‍👧‍👧 [Help a Family](https://github.com/seth-reeise/helpafamily) - Open source application to help families in need with meals, hygiene kits, and more.
-- 🐶 [The Divine Canine](divinecaninellc.com) - Website for my fiancé's Dog Grooming Business
+- 🐶 [The Divine Canine](https://www.divinecaninellc.com) - Website for my fiancé's Dog Grooming Business
   - ☁️ In the process of migrating to AWS
 
 #### Projects
