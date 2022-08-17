@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my profile 🔋
 
-<!--
-**seth-reeise/seth-reeise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Collaborated / Contributed (open source)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍👩‍👧‍👧 [Help a Family](https://github.com/seth-reeise/helpafamily) - Open source application to help families in need with meals, hygiene kits, and more.
+- 🐶 [The Divine Canine](divinecaninellc.com) - Website for my fiancé's Dog Grooming Business
+  - ☁️ In the process of migrating to AWS
+
+#### Projects
+
+- 👩🏻‍💼[Divine Canine Admin Web](https://github.com/seth-reeise/admin-Dc) - Admin website for internal use of The Divine Canine to view and manage customers info
+- 👨🏽‍💻[Divine Canine API](https://github.com/seth-reeise/dc-api) - Backend API for The Divine Canine Admin Web
+- 🚢 [Battleship](https://github.com/seth-reeise/Battleship/tree/master) - Classic Battleship game (Written in my early days of programming)
+
+  
