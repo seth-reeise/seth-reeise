@@ -1,5 +1,6 @@
 ### Welcome to my profile 🔋
 
+LinkedIn: https://www.linkedin.com/in/seth-reeise-135284221/
 
 #### Collaborated / Contributed (open source)
 
