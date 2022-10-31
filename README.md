@@ -1,7 +1,7 @@
 ### Welcome to my profile 🔋
 
-LinkedIn: https://www.linkedin.com/in/seth-reeise-135284221/
-Work GitHub: https://github.com/SethReeise
+#### LinkedIn: https://www.linkedin.com/in/seth-reeise-135284221/
+#### Work GitHub: https://github.com/SethReeise
 
 #### Collaborated / Contributed (open source)
 
