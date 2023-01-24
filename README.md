@@ -12,8 +12,8 @@
 
 #### Projects
 
-- 👩🏻‍💼[Divine Canine Admin Web](https://github.com/seth-reeise/admin-Dc) - Admin website for internal use of The Divine Canine to view and manage customers info (work in progress)
-- 👨🏽‍💻[Divine Canine API](https://github.com/seth-reeise/dc-api) - Backend API for The Divine Canine Admin Web (work in progress)
+- 👩🏻‍💼[Divine Canine Admin Web](https://github.com/seth-reeise/admin-Dc) - Admin website for internal use of The Divine Canine to view and manage customers info (work in progress)(C#/.NET)
+- 👨🏽‍💻[Divine Canine API](https://github.com/seth-reeise/dc-api) - Backend API for The Divine Canine Admin Web (work in progress)(JavaScript/React)
 - 🚢 [Battleship](https://github.com/seth-reeise/Battleship/tree/master) - Classic Battleship game (Written in my early days of programming)
 
   
