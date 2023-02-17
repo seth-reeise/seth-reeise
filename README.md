@@ -16,4 +16,7 @@
 - 👨🏽‍💻[Divine Canine API](https://github.com/seth-reeise/dc-api) - Backend API for The Divine Canine Admin Web (work in progress) (C#/.NET)
 - 🚢 [Battleship](https://github.com/seth-reeise/Battleship/tree/master) - Classic Battleship game (Written in my early days of programming)
 
+
+#### Coding Questions
+- [Remove duplicates in a list of lists](https://github.com/seth-reeise/ListsOfListsCodingQuestion)
   
